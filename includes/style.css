@@ -1,0 +1,16 @@
+/* Styles for the breeze plugin for both admin and frontend. */
+.wt_breeze_text_long {
+    width: 300px;
+}
+
+.wt_breeze_text_med {
+    width: 200px;
+}
+
+.wt_breeze_text_small {
+    width: 50px;
+}
+
+.wt_breeze_hr {
+    margin: 15px 0;
+}
